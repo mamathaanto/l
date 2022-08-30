@@ -7,6 +7,9 @@
     width:320px;
     height:450px;
     margin:20px;
+    background-color:rgb(113, 138, 70);
+    border-radius: 6px;
+
 }
 .card-header{
     height: 60px;
@@ -15,9 +18,11 @@
     font-size: 25px;
     font-weight: 600;
     font-style: italic;
+    border-color: rgb(113, 138, 70);
 }
 .card-footer{
     height: 30px;
+    border-color: rgb(113, 138, 70)s;
     
 }
 .card-footer button{
@@ -31,4 +36,5 @@
 .card-footer button:hover{
     background-color: burlywood;
     color:yellow;
+    
 }
